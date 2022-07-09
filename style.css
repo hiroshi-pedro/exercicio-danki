@@ -17,7 +17,7 @@
 .center {
     position: relative;
     width: 100%;
-    background-image: url(../imagens/svg-vetor-2-image.svg);
+    background-image: url(imagens/svg-vetor-2-image.svg);
     background-position: center;
     background-size: cover;
     min-height: 30vw;
@@ -49,7 +49,7 @@ section.main {
     min-height: 30vw;
     justify-content: space-between;
     padding: 20px;
-    background-image: url(../imagens/svg-vetor-image.svg);
+    background-image: url(imagens/svg-vetor-image.svg);
     background-position: center;
     background-size: cover;
 }
@@ -163,7 +163,7 @@ section.main {
 }
 
 section.cta {
-    background-image: url('../imagens/bg2.jpg');
+    background-image: url('imagens/bg2.jpg');
     padding: 20px 10px;
     min-height: 250px;
     background-size: cover;
